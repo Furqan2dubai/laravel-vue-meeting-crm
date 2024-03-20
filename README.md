@@ -34,3 +34,16 @@ npm run dev
 npm run build
 ```
 # laravel-vue-meeting-crm
+Please follow the instruction below
+
+open the app folder on command line 
+
+npm install
+
+create a database with the name of "meeting_app" in mysql
+
+php artisan migrate
+
+php artisan serve
+
+npm run dev or npm run build
